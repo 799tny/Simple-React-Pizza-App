@@ -153,12 +153,13 @@ body {
 
 .footer {
   font-size: 1.4rem;
-}
-
-.order {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 2.4rem;
+}
+
+.order {
   gap: 2.4rem;
 }
 
